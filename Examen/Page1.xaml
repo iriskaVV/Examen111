@@ -1,0 +1,22 @@
+﻿<Page x:Class="Examen.Page1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Examen"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Page1">
+
+    <Grid>
+        <Label x:Name="label" Content="Входящие" HorizontalAlignment="Left" VerticalAlignment="Top" Height="45" Width="320"/>
+        <Ellipse Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="25" Margin="10,100,0,0" Stroke="Black" VerticalAlignment="Top" Width="25"/>
+        <Label x:Name="label1" Content="Купить 100кг гречки" HorizontalAlignment="Left" Margin="70,100,0,0" VerticalAlignment="Top" Width="250" Height="36"/>
+        <Ellipse Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="25" Margin="10,150,0,0" Stroke="Black" VerticalAlignment="Top" Width="25"/>
+        <Label x:Name="label1_Copy" Content="Построить вечный двигатель" HorizontalAlignment="Left" Margin="70,150,0,0" VerticalAlignment="Top" Width="250" Height="36"/>
+        <Button x:Name="button" Content="Добавить задачу" HorizontalAlignment="Left" Margin="10,220,0,0" VerticalAlignment="Top" Width="150" Height="40" Click="button_Click"/>
+        <Button x:Name="button1" Content="Удалить" HorizontalAlignment="Left" Margin="340,100,0,0" VerticalAlignment="Top" Width="75" Click="button1_Click" Height="36"/>
+        <Button x:Name="button1_Copy" Content="Удалить" HorizontalAlignment="Left" Margin="340,150,0,0" VerticalAlignment="Top" Width="75" Height="36"/>
+
+    </Grid>
+</Page>

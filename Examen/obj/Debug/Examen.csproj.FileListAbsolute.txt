@@ -1,0 +1,15 @@
+C:\Users\инет\source\repos\Examen\Examen\bin\Debug\Examen.exe.config
+C:\Users\инет\source\repos\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\инет\source\repos\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\инет\source\repos\Examen\Examen\obj\Debug\Examen.csproj.AssemblyReference.cache
+C:\Users\инет\source\repos\Examen\Examen\obj\Debug\MainWindow.g.cs
+C:\Users\инет\source\repos\Examen\Examen\obj\Debug\App.g.cs
+C:\Users\инет\source\repos\Examen\Examen\obj\Debug\Examen_MarkupCompile.cache
+C:\Users\инет\source\repos\Examen\Examen\obj\Debug\Examen_MarkupCompile.lref
+C:\Users\инет\source\repos\Examen\Examen\obj\Debug\MainWindow.baml
+C:\Users\инет\source\repos\Examen\Examen\obj\Debug\Examen.g.resources
+C:\Users\инет\source\repos\Examen\Examen\obj\Debug\Examen.Properties.Resources.resources
+C:\Users\инет\source\repos\Examen\Examen\obj\Debug\Examen.csproj.GenerateResource.cache
+C:\Users\инет\source\repos\Examen\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+C:\Users\инет\source\repos\Examen\Examen\obj\Debug\Examen.exe
+C:\Users\инет\source\repos\Examen\Examen\obj\Debug\Examen.pdb

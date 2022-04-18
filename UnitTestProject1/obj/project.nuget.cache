@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fGUd3qVEt4oDghQ9p4mCBhQbnO/rZSrSvnAEuYl4ZNAOefZ7iX56y1yfL0YHyngsvpjCZRMntjjtoHauRlROQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\инет\\source\\repos\\Examen\\UnitTestProject1\\UnitTestProject1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\инет\\.nuget\\packages\\mstest.testadapter\\2.1.2\\mstest.testadapter.2.1.2.nupkg.sha512",
+    "C:\\Users\\инет\\.nuget\\packages\\mstest.testframework\\2.1.2\\mstest.testframework.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
